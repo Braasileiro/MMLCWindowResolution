@@ -1,0 +1,26 @@
+id ICON "Resource/MMLCWindowResolution.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+	BLOCK "StringFileInfo"
+	BEGIN
+	BLOCK "040904E4"
+	BEGIN
+		VALUE "CompanyName", "BrasileiroGamer"
+		VALUE "FileDescription", "MMLCWindowResolution: A program to change the window size of the Mega Man Legacy Collection."
+		VALUE "FileVersion", "2016.3"
+		VALUE "InternalName", "MMLCWindowResolution"
+		VALUE "LegalCopyright", "Lucas Cota (lucasbrunocota@live.com)"
+		VALUE "OriginalFilename", "MMLCWindowResolution.exe"
+		VALUE "ProductName", "MMLCWindowResolution Tool"
+		VALUE "ProductVersion", "2016.3"
+	END
+END
+
+BLOCK "VarFileInfo"
+	BEGIN
+		VALUE "Translation", 0x409, 1252
+  	END
+END
