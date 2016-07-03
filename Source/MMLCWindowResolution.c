@@ -47,7 +47,7 @@ int main()
 
 		//Getting Configurations
 		system("cls");
-		printf("\n MMLCWindowResolution Tool v2016.1\n\n");
+		printf("\n MMLCWindowResolution Tool v2016.3\n\n");
 		printf(" Well, it looks like it's the first time you're running MMLCWindowResolution.\n");
 		printf(" 'WindowWidth' is the value of the width of the window (eg: 1920).\n");
 		printf(" 'WindowHeight' is the value of the height of the window (eg: 1080).\n");
