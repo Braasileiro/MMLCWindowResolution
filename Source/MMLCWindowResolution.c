@@ -67,7 +67,7 @@ int main()
 
 		fprintf(MMLCWindowResolution, "# Is the limit of time (in seconds) that the program will look for the game window.\n");
 		fprintf(MMLCWindowResolution, "# Decrease this only when necessary, if you put a very small amount, it may be the program does not find the game window.\n");
-		fprintf(MMLCWindowResolution, "TimeLimit=60\n\n");
+		fprintf(MMLCWindowResolution, "TimeLimit=30\n\n");
 
 		fprintf(MMLCWindowResolution, "[Window]\n");
 		fprintf(MMLCWindowResolution, "# Is the value of the width of the window (eg: 1920).\n");
